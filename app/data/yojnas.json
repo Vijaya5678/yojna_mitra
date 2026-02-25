@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pmawas",
+    "name": "Pradhan Mantri Awas Yojana (Urban/Rural)",
+    "category": "housing",
+    "description": "Affordable housing assistance for eligible beneficiaries.",
+    "gender": "any",
+    "incomeLimit": 300000,
+    "ageRange": [18, 60],
+    "states": ["ALL"],
+    "tags": ["urban", "rural", "housing", "ews", "lig"]
+  },
+  {
+    "id": "ladlilaxmi",
+    "name": "Ladli Laxmi Yojana",
+    "category": "girl_child",
+    "description": "Financial support for girl child education and welfare (state specific).",
+    "gender": "female",
+    "incomeLimit": 400000,
+    "ageRange": [0, 18],
+    "states": ["MP", "DELHI", "GOA", "JH"],
+    "tags": ["education", "girl"]
+  },
+  {
+    "id": "pmkisan",
+    "name": "PM-KISAN Samman Nidhi",
+    "category": "farmer",
+    "description": "Income support for landholding farmer families.",
+    "gender": "any",
+    "incomeLimit": 0,
+    "ageRange": [18, 100],
+    "states": ["ALL"],
+    "tags": ["farmer", "agriculture"]
+  },
+  {
+    "id": "senior_pension",
+    "name": "Indira Gandhi National Old Age Pension Scheme",
+    "category": "pension",
+    "description": "Pension support for eligible senior citizens.",
+    "gender": "any",
+    "incomeLimit": 500000,
+    "ageRange": [60, 100],
+    "states": ["ALL"],
+    "tags": ["senior", "pension"]
+  },
+  {
+    "id": "mudra",
+    "name": "Pradhan Mantri Mudra Yojana",
+    "category": "credit",
+    "description": "Collateral-free loans for micro/small enterprises and entrepreneurs.",
+    "gender": "any",
+    "incomeLimit": 0,
+    "ageRange": [18, 65],
+    "states": ["ALL"],
+    "tags": ["business", "entrepreneur", "msme"]
+  },
+  {
+    "id": "nsp_scholarship",
+    "name": "National Scholarship Portal (NSP) – Central Schemes",
+    "category": "education",
+    "description": "Scholarships for eligible students across various categories.",
+    "gender": "any",
+    "incomeLimit": 400000,
+    "ageRange": [14, 30],
+    "states": ["ALL"],
+    "tags": ["student", "education", "scholarship"]
+  }
+]
